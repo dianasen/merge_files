@@ -8,4 +8,4 @@ merges two files together using java language
  * there is no more lines with text left
  * 
  * program is not infinite because thrird, made file has specified name "solutions.txt" it would be unreasonable to keep overwriting same file
- * but if wanted to run it infinetly simple solution is to comment out or delete exit statement on line 109 
+ * but if wanted to run it infinetly simple solution is to comment out or delete exit statement on line 102 
