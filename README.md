@@ -1,4 +1,4 @@
-# merge_files
+# merge_files java
 merges two files together using java language
 
  * Written by Diana Sen
